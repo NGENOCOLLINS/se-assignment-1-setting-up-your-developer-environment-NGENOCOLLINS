@@ -51,4 +51,15 @@ Submit your document and GitHub repository link through the designated platform 
 - Clarity of reflection on challenges and solutions encountered.
 - Adherence to submission guidelines and deadlines.
 
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+Note: Feel free to reach out for clarification or assistance with any aspect of the assign
+
+SUBMISSION FOR MY WEEK 2 ASSIGNMENT ONE
+https://docs.google.com/document/d/1e2OSBoM8x-Nbw5C86Wjl8hWxU6rEMs14tc82_8HA3jU/edit?usp=sharing
+
+A GitHub repository containing a sample project initialized with Git
+https://github.com/NGENOCOLLINS/practice101.git
+
+CHALLENGES
+Compatibility Issues
+Dependency Conflicts
+Network problems
